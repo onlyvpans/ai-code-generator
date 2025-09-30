@@ -1,6 +1,5 @@
-// import { useState } from "react";
 import { Routes, Route } from "react-router-dom";
-import { ClerkProviderWithRoutes } from "./auth/ClerkProviderWithRoutes";
+import ClerkProviderWithRoutes from "./auth/ClerkProviderWithRoutes";
 import { Layout } from "../layout/Layout.jsx";
 import { ChallengeGenerator } from "../challenge/ChallengeGenerator.jsx";
 import { HistoryPanel } from "../history/HistoryPanel.jsx";
