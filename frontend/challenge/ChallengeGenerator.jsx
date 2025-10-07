@@ -1,5 +1,5 @@
 import "react";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { MCQChallenge } from "./MCQChallenge.jsx";
 
 export function ChallengeGenerator() {

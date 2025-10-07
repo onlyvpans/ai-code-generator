@@ -1,0 +1,4 @@
+**/*.py
+backend/.venv/
+backend/uv.lock
+backend/__pycache__/
